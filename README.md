@@ -1,7 +1,5 @@
 # Blox-fruit-shop
 Game shop
-<!doctype html>
-
 <html lang="km">
 <head>
   <meta charset="utf-8" />
